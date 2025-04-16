@@ -24,7 +24,7 @@ Aggregate rating                 0.0<br>
 Name: 69, dtype: object<br>
 _______________________________________________________________
 The Correlation Between Votes and Rating: 0.31<br>
-  
+_______________________________________________________________
 
 <h2>🛠️Tools & Technologies Used:</h2><br>
 
