@@ -6,14 +6,23 @@
 
 In this project, I analyzed a given restaurant dataset to explore insights on:
 1. Identify the restaurants with the highest and lowest number of votes and
-2. Analyze if there is a correlation betwenn the number of votes and the rating of a resstaurant
+2. Analyze if there is a correlation betweEn the number of votes and the rating of a resstaurant
 
 <h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:<br>
-1. 
-  <p> For More Understanding I plot a bar plot</p>
-  <p align="left">
-  <img src="download chains.png" alt="bar plot" width="600"><br>
+
+The Highest number of Votes: Restaurant Name      Toit
+Votes               10934
+Aggregate rating      4.8
+Name: 728, dtype: object
+_______________________________________________________________
+
+The Lowest number of Votes: Restaurant Name     Cantinho da Gula
+Votes                              0
+Aggregate rating                 0.0
+Name: 69, dtype: object
+_______________________________________________________________
+The Correlation Between Votes and Rating: 0.31
   
 
 <h2>🛠️Tools & Technologies Used:</h2><br>
