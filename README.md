@@ -6,7 +6,7 @@
 
 In this project, I analyzed a given restaurant dataset to explore insights on:
 1. Identify the restaurants with the highest and lowest number of votes and
-2. Analyze if there is a correlation betweEn the number of votes and the rating of a resstaurant
+2. Analyze if there is a correlation between the number of votes and the rating of a restaurant
 
 <h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:<br>
