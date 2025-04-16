@@ -11,18 +11,19 @@ In this project, I analyzed a given restaurant dataset to explore insights on:
 <h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:<br>
 
-The Highest number of Votes: Restaurant Name      Toit
-Votes               10934
-Aggregate rating      4.8
+The Highest number of Votes: Restaurant Name      Toit<BR>
+Votes               10934<br>
+Aggregate rating      4.8<br>
+
 Name: 728, dtype: object
 _______________________________________________________________
 
-The Lowest number of Votes: Restaurant Name     Cantinho da Gula
-Votes                              0
-Aggregate rating                 0.0
-Name: 69, dtype: object
+The Lowest number of Votes: Restaurant Name     Cantinho da Gula<br>
+Votes                              0<br>
+Aggregate rating                 0.0<br>
+Name: 69, dtype: object<br>
 _______________________________________________________________
-The Correlation Between Votes and Rating: 0.31
+The Correlation Between Votes and Rating: 0.31<br>
   
 
 <h2>🛠️Tools & Technologies Used:</h2><br>
